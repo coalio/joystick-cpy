@@ -1,16 +1,15 @@
-# scrcpy (v1.24)
+# joystick-cpy (based in scrcpy v1.24)
 
 <img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
-_pronounced "**scr**een **c**o**py**"_
-
-[Read in another language](#translations)
+_pronounced "**joystick** **c**o**py**"_
 
 This application provides display and control of Android devices connected via
-USB or [over TCP/IP](#tcpip-wireless). It does not require any _root_ access.
-It works on _GNU/Linux_, _Windows_ and _macOS_.
+USB or [over TCP/IP](#tcpip-wireless). Additionally, it emulates a virtual joystick with customizable controls, so you can map your touchscreen to keyboard buttons.
 
-![screenshot](assets/screenshot-debian-600.jpg)
+*For now, this application is still under development, but stay updated!*
+
+### Original scrcpy README below
 
 It focuses on:
 
